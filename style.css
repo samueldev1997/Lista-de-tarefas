@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lumanosimo&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: arial;
+    background-color: #b44c32;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    font-size: 1.3em;
+}
+
+.container {
+    width: 400px;
+    margin-top: 20px;
+    max-height: 50vh;
+    overflow-y: auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #020202;
+}
+
+
